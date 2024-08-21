@@ -125,3 +125,19 @@ browser.
 
 > [!NOTE]
 > The HTML files must be downloaded to be viewed. Large files may break the plot rendering in some browsers.
+
+
+## Acknowledgements
+
+The Munich Nanotech Toolkit has been supported by the Bavarian State Ministry for Science and Arts through the
+Distinguished Professorship Program.
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cda-tum/mqt/main/docs/_static/tum_dark.svg" width="28%">
+<img src="https://raw.githubusercontent.com/cda-tum/mqt/main/docs/_static/tum_light.svg" width="28%" alt="TUM Logo">
+</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Non-breaking spaces for spacing -->
+<picture>
+<img src="https://raw.githubusercontent.com/cda-tum/mqt/main/docs/_static/logo-bavaria.svg" width="16%" alt="Coat of Arms of Bavaria">
+</picture>
