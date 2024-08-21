@@ -83,6 +83,22 @@ For 2D spaces, each file contains a plot of the operational domain for a single 
 algorithm. The plot shows the logical correctness of the gate at the respective parameter values in purple.
 Non-operational samples are shown in gray.
 
+
+<p align="center">
+    <picture>
+        <img src="https://github.com/cda-tum/mnt-operational-domains/blob/main/operational_domains/siqad/png/2d/grid_search/2D_Grid_Search_SiQAD_OR.png?raw=true" width="24%" alt="2D Operational Domain Grid Search SiQAD OR">
+    </picture>
+    <picture>
+        <img src="https://github.com/cda-tum/mnt-operational-domains/blob/main/operational_domains/siqad/png/2d/random_sampling/2D_Random_Sampling_SiQAD_OR.png?raw=true" width="24%" alt="2D Operational Domain Random Sampling SiQAD OR">
+    </picture>
+    <picture>
+        <img src="https://github.com/cda-tum/mnt-operational-domains/blob/main/operational_domains/siqad/png/2d/flood_fill/2D_Flood_Fill_SiQAD_OR.png?raw=true" width="24%" alt="2D Operational Domain Flood Fill SiQAD OR">
+    </picture>
+    <picture>
+        <img src="https://github.com/cda-tum/mnt-operational-domains/blob/main/operational_domains/siqad/png/2d/contour_tracing/2D_Contour_Tracing_SiQAD_OR.png?raw=true" width="24%" alt="2D Operational Domain Contour Tracing SiQAD OR">
+    </picture>
+</p>
+
 For 3D spaces, all benchmark layouts' plots are depicted from three azimuth angles: 45°, 135°, and 225°, with a constant
 elevation angle of 30°. In 3D plots, non-operational samples are omitted while operational samples are colored according
 to their location in the parameter space.
