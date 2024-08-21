@@ -8,7 +8,7 @@
 </p>
 
 This repository provides supplementary data for the paper *Multi-Dimensional Operational Domain Computation for Silicon
-Dangling Bond Logic* by M. Walter, J. Drewniok, S. S. H. Ng, K. Walus, and R. Wille submitted to TNANO (under review).
+Dangling Bond Logic* by M. Walter, J. Drewniok, S. S. H. Ng, K. Walus, and R. Wille submitted to TCAD (under review).
 
 ## Operational Domain Analysis
 
