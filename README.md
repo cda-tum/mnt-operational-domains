@@ -52,7 +52,8 @@ Tracing*. Additionally, we compare these algorithms to the state-of-the-art *Gri
 mentioning *Random Sampling* in the paper.
 
 Operational domain data generated with all applicable algorithms for all benchmark layouts is provided in
-the `operational_domains/` folder in various file formats.
+the [`operational_domains/`](https://github.com/cda-tum/mnt-operational-domains/tree/main/operational_domains) folder in
+various file formats.
 
 #### CSV
 
@@ -107,4 +108,4 @@ operational domain using the same color scheme as in the PNG case. The plot can 
 browser.
 
 > [!NOTE]
-> Large files may break the plot rendering in some browsers.
+> The HTML files must be downloaded to be viewed. Large files may break the plot rendering in some browsers.
